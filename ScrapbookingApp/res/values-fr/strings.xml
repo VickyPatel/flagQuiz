@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbooking App</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_settings">paramètres</string>
+    <string name="taj">Taj Mahal, Agra, dans Uttar Pradesh, en Inde</string>
+    <string name="colosseum">Colisée, Rome, Italie</string>
+    <string name="stonehenge">Stonehenge, le comté de Wiltshire, Royaume-Uni</string>
+    <string name="potala">Palais du Potala, Lhasa, Tibet</string>
+    
+
+</resources>
